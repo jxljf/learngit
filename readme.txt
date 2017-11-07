@@ -6,3 +6,4 @@ dev first add
 Creating a new branch is quick & simple.
 dev add last
 linux add 
+mac add
